@@ -1,0 +1,5 @@
+cluster,cluster_name,utilization_ratio,rice_dependency,portability_ratio,volatility_cv,avg_monthly_trans,totalRcs,n_shops
+0,Low-Volume Rural / Steady,0.798,1.0,0.128,0.052,332.183,419.689,10537
+1,Urban Portability Hub,1.016,0.883,0.766,0.124,981.379,984.478,1206
+2,Mid-Volume Semi-Urban,0.949,0.999,0.484,0.073,618.676,663.318,4266
+3,Volatile / Under-Utilized,0.549,0.991,0.554,0.336,247.321,467.979,894
