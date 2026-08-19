@@ -1,0 +1,8 @@
+data/transactions_2023.csv/
+data/transactions_2024.csv/
+data/transactions_2025.csv/
+data/card_status.csv/
+data/fps_location.csv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
