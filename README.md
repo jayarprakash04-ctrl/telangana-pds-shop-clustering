@@ -1,7 +1,7 @@
 # Telangana PDS Analytics: Shop Performance Clustering & Anomaly Profiling
 
 Segmenting ~17,000 Telangana Fair Price Shops into behavioral personas and flagging
-anomalous shops using unsupervised machine learning.
+anomalous shops using unsupervised machine learning,
 Science capstone project.
 
 ## Problem Statement
